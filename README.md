@@ -1,2 +1,0 @@
-# libcte
-Conditional Text Extension
